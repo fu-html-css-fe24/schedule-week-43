@@ -1,5 +1,5 @@
 # Schema, vecka 42
-###### HTML & CSS, vecka 1 av 8
+###### HTML & CSS, vecka 2 av 8
 
 ## Introduktion
 
