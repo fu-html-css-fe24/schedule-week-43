@@ -16,7 +16,8 @@ Senare under veckan kommer vi dessutom att börja ta ett ordentligt grepp om lay
 ## Resurser
 
 ### Presentationer
-* [CSS Forts.](https://docs.google.com/presentation/d/1-C_8WKo2WGoEX8TUny0t3h33e0ti11MP/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true) 
+* [CSS Forts.](https://docs.google.com/presentation/d/1-C_8WKo2WGoEX8TUny0t3h33e0ti11MP/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [CSS Flexbox](https://docs.google.com/presentation/d/1VS0xHdGUEQppRYUgI4tIYPf3NswL127h/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 * [21 okt, CSS Fortsättning]()
@@ -40,6 +41,7 @@ Senare under veckan kommer vi dessutom att börja ta ett ordentligt grepp om lay
 
 ### Övningar
 * [CSS Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-bootcamp)
+* [CSS Flexbox Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-flexbox-bootcamp)
 
 
 
