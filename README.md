@@ -33,16 +33,21 @@ Senare under veckan kommer vi dessutom att börja ta ett ordentligt grepp om lay
 * [Learn Emmet in 15 minutes](https://www.youtube.com/watch?v=V8vizNQKtx0)
 * [Web Dev Simplified - YouTube-kanal](https://www.youtube.com/@WebDevSimplified)
 * [Kevin Powell - YouTube-kanal](https://www.youtube.com/@KevinPowell)
+* [Learn CSS Specificity in 11 minutes](https://www.youtube.com/watch?v=CHyPGSpIhSs)
+* [Learn CSS Flexbox in 10 minutes](https://www.youtube.com/watch?v=GteJWhCikCk)
 
+  
 ### Länkar
 * [Git Cheat Sheet](https://gist.github.com/Santosnr6/0741f2c607404f75fea8dc0910ded790)
 * [W3 Schools - CSS Tutorial](https://www.w3schools.com/css/)
 * [CSS Battle](https://cssbattle.dev/)
-* [Learn CSS Flexbox in 10 minutes](https://www.youtube.com/watch?v=GteJWhCikCk)
+
 
 ### Övningar
 * [CSS Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-bootcamp)
 * [CSS Flexbox Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-flexbox-bootcamp)
+* [Flexbox Froggy](https://flexboxfroggy.com/#sv)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
 
 
 
