@@ -20,11 +20,12 @@ Senare under veckan kommer vi dessutom att börja ta ett ordentligt grepp om lay
 * [CSS Flexbox](https://docs.google.com/presentation/d/1VS0xHdGUEQppRYUgI4tIYPf3NswL127h/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
-* [21 okt, CSS Fortsättning]()
+* [21 okt, CSS Fortsättning](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERdhRBcxzVBDv10BE2Jjo8oB2rmapfvDhQnMS_M3KObhsA?e=e2h357)
+* [21 okt, CSS Flexbox](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERm_77SnofFMo8ecoZb8RD8BF8kXfSWV_mmpW923qQtm2w?e=gGxihB)
 
 
 ### Lektionsrepon
-* [21 okt, CSS]()
+* [21 okt, CSS och Flexbox](https://github.com/fu-html-css-fe24/lecture-21-okt)
 
 
 ### Filmer
