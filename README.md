@@ -22,6 +22,7 @@ Senare under veckan kommer vi dessutom att börja ta ett ordentligt grepp om lay
 ### Inspelade föreläsningar
 * [21 okt, CSS Fortsättning](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERdhRBcxzVBDv10BE2Jjo8oB2rmapfvDhQnMS_M3KObhsA?e=e2h357)
 * [21 okt, CSS Flexbox](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERm_77SnofFMo8ecoZb8RD8BF8kXfSWV_mmpW923qQtm2w?e=gGxihB)
+* [23 okt, Code Along Space Hack](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUR1ioxQrxtGnkw3YvgvclMBR2PPzwLTXYqdY1m3Sy_VJw?e=ABuj5v)
 
 
 ### Lektionsrepon
@@ -49,6 +50,7 @@ Senare under veckan kommer vi dessutom att börja ta ett ordentligt grepp om lay
 * [CSS Flexbox Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-flexbox-bootcamp)
 * [Flexbox Froggy](https://flexboxfroggy.com/#sv)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Layoutövningar](https://github.com/fu-html-css-fe24/exercise-css-layout/tree/main)
 
 
 
